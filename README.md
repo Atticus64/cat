@@ -3,7 +3,7 @@
 
 For learning purposes 🤠
 
-![](./cat.jpg)
+<img src="./cat.jpg" width="400px">
 
 
 ## Build cat rust version 
